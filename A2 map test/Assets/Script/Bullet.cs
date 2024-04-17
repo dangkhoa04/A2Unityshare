@@ -12,4 +12,8 @@ public class bullet : MonoBehaviour
         Destroy(this.gameObject);
     }
    }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7fd1387d60546dddb90c9db557bfdcc12b0477e6
