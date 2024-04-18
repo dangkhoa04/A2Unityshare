@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:A2 map test/Assets/Assets/bean 2/bean.fbx.meta
 guid: 13351468465c642de9434013c9fe64e2
+========
+guid: f09573189591a4d81bd0898f65e393b5
+>>>>>>>> cab55ea4775fbab023ac099b2a2a42be30fc77dd:A2 map test/Assets/Assets/Bean/bean.fbx.meta
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
